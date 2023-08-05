@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Teddy Graveleau**, a french frontend developer at <a href="https://www.yomoni.fr/" target="_blank">Yomoni</a>. I'm developping in React, mostly for the web customer interface.
+I'm **Teddy Graveleau**, a french frontend developer at <a href="https://www.yomoni.fr/" target="_blank">Yomoni</a>. I'm developping the web and mobile customer interface in React and React Native.
 
 <img src="https://github-readme-stats.vercel.app/api?username=tgraveleau&show_icons=true&count_private=true" />
 
