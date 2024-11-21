@@ -2,8 +2,6 @@
 
 I'm **Teddy Graveleau**, a french frontend developer at <a href="https://www.yomoni.fr/" target="_blank">Yomoni</a>. I'm developping the web and mobile customer interface in React and React Native.
 
-<img src="https://github-readme-stats.vercel.app/api?username=tgraveleau&show_icons=true&count_private=true" />
-
 <a href="https://www.linkedin.com/in/teddy-graveleau/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png"
   alt="linkedin"
